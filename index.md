@@ -4,8 +4,8 @@ Videonäyte:
 [Animaatio hahmonkävelystä](https://drive.google.com/file/d/15M-82gSnr5TOB5bxlwAscxhUuvbzct3X/view?usp=sharing)
 
 Kooditöitä:
-Pelihahmon peruskontrolleri
-Laivaupotus Windows C# Formilla
+- Pelihahmon peruskontrolleri
+- Laivaupotus Windows C# Formilla
 
 
 ## Welcome to GitHub Pages
