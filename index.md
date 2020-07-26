@@ -1,5 +1,7 @@
 # Portfolio
 
+Eniten ohjelmointi kokemusta löytyy C#-kielestä.
+
 ## 2D-Pelihahmon peruskontrolleri (C#, Unity)
 Pro graduni yliopistossa, jossa valmistui komponentti, joka automaattisesti animoi 2D-pelihahmon kävelyn käyttäen käänteiskinematiikkaa.
 
@@ -15,29 +17,6 @@ Harjoitustyö AMK:ssa. Yksinkertainen peli, jossa pelaaja pelaa teköälyä vast
 
 ## 3D harjoitustyö (C++, OpenGL)
 Harjoitustyö 3D-kurssissa, jossa 3D kappale, pilkkotaan kahtia ja osat renderöidään 
-kahdella eri varjostimella simuloiden valontaitumista, refraktio-ilmiötä.
+kahdella eri varjostimella simuloiden valontaitumista.
 
 [Repo](https://github.com/Tupo26/3Dharjoitus)
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
