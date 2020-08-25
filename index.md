@@ -15,7 +15,7 @@ Harjoitustyö AMK:ssa. Yksinkertainen peli, jossa pelaaja pelaa laivanupotusta t
 
 [Repo](https://github.com/Tupo26/Laivanupotuspeli)
 
-## 3D harjoitustyö (C++, OpenGL)
+## 3D-harjoitustyö (C++, OpenGL)
 Harjoitustyö 3D-kurssissa. Sovellus piirtää 3D-kappaleen, joka pilkotaan kahtia ja niiden osat renderöidään 
 kahdella eri varjostimella simuloiden valon taittumista.
 
