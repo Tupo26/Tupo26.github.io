@@ -10,7 +10,7 @@ Pro graduni yliopistossa, jossa valmistettiin komponentti, joka automaattisesti 
 Videonäyte:
 [Hahmon kävely](https://drive.google.com/file/d/15M-82gSnr5TOB5bxlwAscxhUuvbzct3X/view?usp=sharing)
 
-## Laivaupotus (C#, Windows Form)
+## Laivanupotus (C#, Windows Form)
 Harjoitustyö AMK:ssa. Yksinkertainen peli, jossa pelaaja pelaa laivanupotusta tekoälyä vastaan.
 
 [Repo](https://github.com/Tupo26/Laivanupotuspeli)
