@@ -27,8 +27,8 @@ kahdella eri varjostimella simuloiden valon taittumista.
 
 ## Itse opiskelua Reactilla (React, Javascript, HTML)
 
-Tein nämä pari projektia opetaakseni itselleni REACTia
+Tein nämä pari projektia opetaakseni itselleni Reactia
 
-[Laskin REACTilla](https://github.com/Tupo26/React_Calculator)
+[Laskin Reactilla](https://github.com/Tupo26/React_Calculator)
 
-[Datan nouto REACTilla](https://github.com/Tupo26/React_datafetch)
+[Datan nouto Reactilla](https://github.com/Tupo26/React_datafetch)
