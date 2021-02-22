@@ -30,4 +30,4 @@ kahdella eri varjostimella simuloiden valon taittumista.
 Tein nämä pari projektia opetaakseni itselleni REACTia
 
 [Laskin REACTilla](https://github.com/Tupo26/React_Calculator)
-[Datan nouto REACTilla](https://github.com/Tupo26/React_datafetch
+[Datan nouto REACTilla](https://github.com/Tupo26/React_datafetch)
