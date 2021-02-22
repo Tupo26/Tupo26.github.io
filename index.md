@@ -7,6 +7,10 @@ Pro graduni yliopistossa, jossa valmistettiin komponentti, joka automaattisesti 
 
 [Repo](https://github.com/Tupo26/Unity_IK_HumanoidGaitAnimator)
 
+## 2D-toimintapeli (C#, Json, Unity)
+
+TULOSSA PIAN
+
 Videonäyte:
 [Hahmon kävely](https://drive.google.com/file/d/15M-82gSnr5TOB5bxlwAscxhUuvbzct3X/view?usp=sharing)
 
@@ -20,3 +24,8 @@ Harjoitustyö 3D-kurssissa. Sovellus piirtää 3D-kappaleen, joka pilkotaan kaht
 kahdella eri varjostimella simuloiden valon taittumista.
 
 [Repo](https://github.com/Tupo26/3Dharjoitus)
+
+
+## Itse opiskelua Reactilla (React, Javascript, HTML)
+
+TULOSSA PIAN
