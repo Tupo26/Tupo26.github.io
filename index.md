@@ -6,8 +6,8 @@ Suurin osa ohjelmointikokemuksesta on tullut omista projekteista ja kouluharjoit
 Pro graduni yliopistossa, jossa valmistettiin komponentti, joka automaattisesti animoi 2D-pelihahmon kävelyn käyttäen käänteiskinematiikkaa. Komponentti kykenee animoimaan hahmon kävelyn vaihtelevalla nopeudella etu- ja takaperin, juoksemisen, hyppäämisen ja animoimaan kävelyn tasaisilla pinnoilla, 45-asteen mäissä ja portaissa.
 
 [Repo](https://github.com/Tupo26/Unity_IK_HumanoidGaitAnimator)
-Videonäyte:
-[Hahmon kävely](https://drive.google.com/file/d/15M-82gSnr5TOB5bxlwAscxhUuvbzct3X/view?usp=sharing)
+
+[Video hahmon kävelystä](https://drive.google.com/file/d/15M-82gSnr5TOB5bxlwAscxhUuvbzct3X/view?usp=sharing)
 
 ## 2D-toimintapeli (C#, Json, Unity)
 
@@ -30,4 +30,5 @@ kahdella eri varjostimella simuloiden valon taittumista.
 Tein nämä pari projektia opetaakseni itselleni REACTia
 
 [Laskin REACTilla](https://github.com/Tupo26/React_Calculator)
+
 [Datan nouto REACTilla](https://github.com/Tupo26/React_datafetch)
