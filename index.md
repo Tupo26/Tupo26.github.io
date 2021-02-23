@@ -9,10 +9,6 @@ Pro graduni yliopistossa, jossa valmistettiin komponentti, joka automaattisesti 
 
 [Video hahmon kävelystä](https://drive.google.com/file/d/15M-82gSnr5TOB5bxlwAscxhUuvbzct3X/view?usp=sharing)
 
-## 2D-toimintapeli (C#, Json, Unity)
-
-TULOSSA PIAN
-
 ## Laivanupotus (C#, Windows Form)
 Harjoitustyö AMK:ssa. Yksinkertainen peli, jossa pelaaja pelaa laivanupotusta tekoälyä vastaan.
 
