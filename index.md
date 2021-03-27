@@ -13,6 +13,7 @@ Pro graduni yliopistossa, jossa valmistettiin komponentti, joka automaattisesti 
 Peli, jota olen tehnyt omaksi ilokseni
 
 [Video 1](https://drive.google.com/file/d/16vzFPRQmxaXre6UY0V_pm1-I9YIOU6Rm/view?usp=sharing)
+
 [Video 2](https://drive.google.com/file/d/1vsyxqq3mQCbZAp_mp7dOLH8SfgK-0xIS/view?usp=sharing)
 
 ## Laivanupotus (C#, Windows Form)
@@ -31,6 +32,8 @@ kahdella eri varjostimella simuloiden valon taittumista.
 
 Tein nämä pari projektia opetaakseni itselleni Reactia
 
-[Laskin Reactilla](https://tupo26.github.io/Reacti-Laskin/)[Laskin repo](https://github.com/Tupo26/React_Calculator)
+[Laskin Reactilla](https://tupo26.github.io/Reacti-Laskin/)
+
+[Laskin repo](https://github.com/Tupo26/React_Calculator)
 
 [Datan nouto Reactilla](https://github.com/Tupo26/React_datafetch)
