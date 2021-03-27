@@ -9,8 +9,8 @@ Pro graduni yliopistossa, jossa valmistettiin komponentti, joka automaattisesti 
 
 [Video hahmon kävelystä](https://drive.google.com/file/d/15M-82gSnr5TOB5bxlwAscxhUuvbzct3X/view?usp=sharing)
 
-## 2D-Peli
-Peli, jota olen tehnyt omaksi ilokseni
+## 2D-Peli (C#, Unity)
+Peli, jota olen tehnyt omaksi ilokseni. Toteutettu Unity-pelimoottorilla.
 
 [Video 1](https://drive.google.com/file/d/16vzFPRQmxaXre6UY0V_pm1-I9YIOU6Rm/view?usp=sharing)
 
