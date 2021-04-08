@@ -34,6 +34,6 @@ Tein nämä pari projektia opetaakseni itselleni Reactia
 
 [Laskin Reactilla](https://tupo26.github.io/Reacti-Laskin/)
 
-[Laskin repo](https://github.com/Tupo26/React_Calculator)
+[Laskin repo](https://github.com/Tupo26/Reacti-Laskin)
 
 [Datan nouto Reactilla](https://github.com/Tupo26/React_datafetch)
