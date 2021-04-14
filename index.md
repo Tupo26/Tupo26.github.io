@@ -16,7 +16,7 @@ Peli, jota olen tehnyt omaksi ilokseni. Toteutettu Unity-pelimoottorilla.
 
 [Video 2](https://drive.google.com/file/d/1vsyxqq3mQCbZAp_mp7dOLH8SfgK-0xIS/view?usp=sharing)
 
-Jos yllä olevat linkit eivät toimi klikkaa [tätä.](https://photos.google.com/share/AF1QipNaZnhAKdesLVGf6mWpeQPVKJCJ1BFgxK7kA61bmqS4_o1NI-xvhMWFuxBXTiEuXA?key=MWE5Q0Z4dGxSMGN0QUJrRVFvUGpPbkJCakJobDl3)
+Jos yllä olevat linkit eivät toimi klikkaa [tästä.](https://photos.google.com/share/AF1QipNaZnhAKdesLVGf6mWpeQPVKJCJ1BFgxK7kA61bmqS4_o1NI-xvhMWFuxBXTiEuXA?key=MWE5Q0Z4dGxSMGN0QUJrRVFvUGpPbkJCakJobDl3)
 
 ## Laivanupotus (C#, Windows Form)
 Harjoitustyö AMK:ssa. Yksinkertainen peli, jossa pelaaja pelaa laivanupotusta tekoälyä vastaan.
