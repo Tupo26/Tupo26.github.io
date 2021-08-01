@@ -1,4 +1,4 @@
-# Tuomas Porvali:n portfolio
+# Tuomas Porvalin portfolio
 
 Suurin osa ohjelmointikokemuksesta on tullut omista projekteista ja kouluharjoituksista.
 
@@ -10,10 +10,10 @@ Pro graduni yliopistossa, jossa valmistettiin komponentti, joka automaattisesti 
 [Video hahmon kävelystä](https://drive.google.com/file/d/15M-82gSnr5TOB5bxlwAscxhUuvbzct3X/view?usp=sharing)
 
 ## 2D-Peli (C#, Unity)
-Peli, jota olen tehnyt omaksi ilokseni. Toteutettu Unity-pelimoottorilla, joka käyttää yllä mainittua komponenttia. 
+2D-tasoloikkatoimintapeli, jota olen tehnyt omaksi ilokseni. Toteutettu Unity-pelimoottorilla, joka käyttää yllä mainittua komponenttia hahmojen animoimiseen. 
 Olen suunnitellut, ohjelmoinut ja piirtänyt peliä itse. 
 
-Peli myös käyttää JSONia ja XML-kieltä datan varastoimiseen ja olen kirjoittanut varjostimia HLSL-kielellä. 
+Peli myös käyttää JSONia ja XML-kieltä datan varastoimiseen ja olen kirjoittanut varjostimia HLSL-kielellä grafiikan parantamiseksi. 
 
 [Video 1](https://drive.google.com/file/d/16vzFPRQmxaXre6UY0V_pm1-I9YIOU6Rm/view?usp=sharing)
 
@@ -27,15 +27,15 @@ Harjoitustyö AMK:ssa. Yksinkertainen peli, jossa pelaaja pelaa laivanupotusta t
 [Repo](https://github.com/Tupo26/Laivanupotuspeli)
 
 ## 3D-harjoitustyö (C++, OpenGL)
-Harjoitustyö 3D-kurssissa. Sovellus piirtää 3D-kappaleen, joka pilkotaan kahtia ja niiden osat renderöidään 
-kahdella eri varjostimella simuloiden valon taittumista.
+Harjoitustyö 3D-ohjelmointikurssista. Sovellus piirtää 3D-kappaleen, joka pilkotaan kahtia ja osat renderöidään 
+kahdella eri varjostimella simuloiden valon taittumista, kun kappale on osittain esim. veden alla.
 
 [Repo](https://github.com/Tupo26/3Dharjoitus)
 
 
 ## Itseopiskelua Reactilla (React, Javascript, HTML)
 
-Tein nämä pari viikonloppu projektia opetaakseni itselleni Reactia. 
+Tein nämä pari viikonloppuprojektia opettaakseni itselleni Reactia. 
 
 [Laskin Reactilla](https://tupo26.github.io/Reacti-Laskin/)
 
