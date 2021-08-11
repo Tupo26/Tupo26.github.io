@@ -42,4 +42,5 @@ Tein nämä pari viikonloppuprojektia opettaakseni itselleni Reactia.
 [Laskin repo](https://github.com/Tupo26/React_Calculator)
 
 Alla oleva react-koodi noutaa API:n avulla dataa ja järjestää sen listaksi. 
+
 [Datan nouto Reactilla](https://github.com/Tupo26/React_datafetch)
