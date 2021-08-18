@@ -44,3 +44,10 @@ Tein nämä pari viikonloppuprojektia opettaakseni itselleni Reactia.
 Alla oleva react-koodi noutaa API:n avulla dataa ja järjestää sen listaksi. 
 
 [Datan nouto Reactilla](https://github.com/Tupo26/React_datafetch)
+
+
+## Itseopiskelua Springillä (Java)
+
+Opettelin itselleni Springin käyttöä. Tein projektin, jossa rakensin REST-palvelun (Resurssin mallinnus, ohjaus ja HATEOAS). Olen aikaisemmin tehnyt samankaltaisen sovelluksen yliopistossa. Testattu Postman ohjelmalla.
+
+[Repo](https://github.com/Tupo26/SpringRestPractice)
