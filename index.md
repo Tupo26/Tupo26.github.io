@@ -7,13 +7,15 @@ Pro graduni yliopistossa, jossa valmistettiin komponentti, joka automaattisesti 
 
 [Repo](https://github.com/Tupo26/Unity_IK_HumanoidGaitAnimator)
 
-[Video hahmon kävelystä](https://drive.google.com/file/d/15M-82gSnr5TOB5bxlwAscxhUuvbzct3X/view?usp=sharing)
+[Video hahmon kävelystä (Youtube)](https://youtu.be/jqgxD_3iY04)
 
 ## 2D-Peli (C#, Unity)
 2D-tasoloikkatoimintapeli, jota olen tehnyt omaksi ilokseni. Toteutettu Unity-pelimoottorilla, joka käyttää yllä mainittua komponenttia hahmojen animoimiseen. 
 Olen suunnitellut, ohjelmoinut ja piirtänyt peliä itse. 
 
 Peli myös käyttää JSONia ja XML-kieltä datan varastoimiseen ja olen kirjoittanut varjostimia HLSL-kielellä grafiikan parantamiseksi. 
+
+Videoita pelin toiminnasta:
 
 [Video 1](https://drive.google.com/file/d/16vzFPRQmxaXre6UY0V_pm1-I9YIOU6Rm/view?usp=sharing)
 
